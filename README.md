@@ -1,43 +1,36 @@
 # REIT6811 – Tutorial 6: Data Handling
 
-This repository is part of **Journal 6** for the course *REIT6811 – Comprehensive Data Handling*.  
-It organises materials for the research project **“Using Generative AI Tools – Boon or Bane.”**  
-The goal is to keep files structured, easy to navigate, and ready for collaboration using GitHub.
+This repository belongs to **Khushboo Panthi (s4769747)** and is structured according to the Tutorial 6 instructions.  
+It demonstrates how research files are organised, version-controlled, and prepared for collaboration.
 
 ---
 
 ## 📂 Repository Structure
 
-- **Literature_Review/**  
-  Research sources: journal articles, conference papers, books, and news articles.  
+- **s4769747-Literature_Review/**  
+  Journal papers, conference articles, books, and newspaper clippings used for the literature review.  
 
-- **Quantitative_Data/**  
-  Survey questions, raw data (CSV/Excel), analysis scripts (Python), and reports.  
+- **s4769747-Quantitative_Data/**  
+  Survey questions, raw CSV/Excel data, Python scripts for analysis, and survey reports.  
 
-- **Qualitative_Data/**  
-  Interview transcripts, consent forms, protocols, insights, and visualisations.  
+- **s4769747-Qualitative_Data/**  
+  Interview transcripts, consent forms, interview protocols, insights reports, and visualisations.  
 
-- **Drafts_Reports/**  
-  Draft proposals, working papers, and final project reports.  
+- **s4769747-Drafts_Reports/**  
+  Draft proposals, working conference papers, and the final research report.  
 
-- **Additional_Materials/**  
-  Photos, information sheets, and other supporting media.  
+- **s4769747-Additional_Materials/**  
+  Photos, information sheets, and other media supporting the project.  
 
----
-
-## 🔑 Collaboration & Conventions
-
-- **File naming**: Use clear, consistent names (e.g., `SurveyData_Cleaned_v1.csv`, `Interview_P01.docx`).  
-- **Commits**: Write short, meaningful messages (e.g., *“Uploaded cleaned survey data”*).  
-- **Branches**: Create a branch for edits (e.g., `feature-survey-analysis`) and submit a pull request.  
-- **Access control**: Restrict sensitive files (like consent forms) to authorised team members only.  
+- **Project_logbook.txt**  
+  Running notes of project progress, edits, and collaboration activities.  
 
 ---
 
 ## 📜 Project Logbook
 
-Progress is tracked in:  
-`Project_logbook.txt`  
+All progress and group updates are documented in:  
+`s4769747-Project_logbook.txt`  
 
 ---
 

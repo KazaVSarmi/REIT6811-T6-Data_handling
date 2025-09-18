@@ -1,3 +1,17 @@
+# Research Project Repository – s49072239
+
+## Overview
+This repository is created as part of REIT6811 Tutorial 6 – Data Handling and GitHub Practice.  
+It includes my student folder `s49072239_folder_name_as_per_tutorial`, which contains research data, scripts, and documents.  
+The aim is to demonstrate good practices in organising files, using GitHub for version control, and collaborating effectively.
+
+## Collaboration Guidelines
+1. Work on a separate branch for new features or updates.  
+2. Use meaningful and descriptive commit messages.  
+3. Submit a Pull Request (PR) before merging into `main`.  
+4. Follow the agreed file/folder naming conventions.  
+5. Keep this README and related documentation up to date.  
+
 # REIT6811-T6-Data_handling
 
 ## 📘 Tutorial 6: Data Handling and GitHub Practice

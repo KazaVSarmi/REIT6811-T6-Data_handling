@@ -1,0 +1,6 @@
+Project Logbook - Student ID: s49527690
+Research Topic: Using Generative AI Tools – Boon or Bane
+
+Date: 2025-09-18
+Status: Project structure created
+Notes: Initial setup of organized research folder structure completed

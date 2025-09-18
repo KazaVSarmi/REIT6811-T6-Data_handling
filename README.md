@@ -1,15 +1,15 @@
-# Generative AI Research (SID: 49365463)
+# Generative AI Research (SID: 49365463 Name: Shashannk Subramanian)
 
 ## Project Overview
 This repository contains all research materials for the study **"Using Generative AI Tools – Boon or Bane"**.  
 It includes literature reviews, survey data, qualitative analysis, drafts, and supporting documents.
 
 ## Repository Structure
-- **Literature_Review/** → Journal articles, conference papers, and reference materials.  
-- **Quantitative_Analysis/** → Survey data (CSV, Excel), Python scripts, and reports.  
-- **Qualitative_Analysis/** → Interview transcripts, consent forms, and analysis reports.  
-- **Drafts_Reports/** → Draft proposals, conference submissions, and final reports.  
-- **Additional_Materials/** → Photos, information sheets, and media files.  
+- **Literature_Review_Documents/** → Books, Journals_And_Conference_Articles, Newspaper_Articles
+- **Quantitative_Analysis/** → Analysis_Files → (CSV, Excel_Files, Python_Scripts), Survey_Analysis_Report, Survey_Data, Survey_Questions
+- **Qualitative_Analysis/** → Analysis_Report, Consent_Forms, Data_Visualisations, Interview_Protocols, Interview_Transcripts 
+- **Drafts_And_Reports/** → Draft_Research_Proposals, Conference_Papers, Final_Reports.  
+- **Additional_Materials/** → Photos, Information_Sheets, and Media_Files.  
 
 ## Collaboration Guidelines
 - Always create a new branch for your work.  

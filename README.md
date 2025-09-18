@@ -1,65 +1,48 @@
-# REIT6811-T6-Data_handling
+# REIT6811 – Tutorial 6: Data Handling
 
-## 📘 Tutorial 6: Data Handling and GitHub Practice
-
-Welcome to the repository for **REIT6811 – Tutorial 6**. This repository contains a sample research project structure for the scenario:  
-**"Using Generative AI Tools – Boon or Bane"**.
-
-You will use this template to learn how to:
-- Organise research data.
-- Use Git and GitHub for version control.
-- Collaborate using forks, branches, and pull requests.
+This repository is part of **Journal 6** for the course *REIT6811 – Comprehensive Data Handling*.  
+It organises materials for the research project **“Using Generative AI Tools – Boon or Bane.”**  
+The goal is to keep files structured, easy to navigate, and ready for collaboration using GitHub.
 
 ---
 
-## 📁 Folder Structure Overview
+## 📂 Repository Structure
 
-REIT6811-T6-Data_handling/
-│
-├── 1_Literature_Review/
-│ └── (Journal articles, book chapters, etc.)
-│
-├── 2_Quantitative_Analysis/
-│ └── (Survey data, scripts, analysis reports)
-│
-├── 3_Qualitative_Analysis/
-│ └── (Interviews, protocols, insights)
-│
-├── 4_Drafts_And_Reports/
-│ └── (Proposals, papers, final reports)
-│
-├── 5_Additional_Materials/
-│ └── (Photos, consent forms, info sheets)
-│
-├── Project_logbook.txt
-└── README.md
+- **Literature_Review/**  
+  Research sources: journal articles, conference papers, books, and news articles.  
 
+- **Quantitative_Data/**  
+  Survey questions, raw data (CSV/Excel), analysis scripts (Python), and reports.  
 
-------------------------------------------------------------------------------------------------------------------
+- **Qualitative_Data/**  
+  Interview transcripts, consent forms, protocols, insights, and visualisations.  
 
-## ✅ Student Instructions
+- **Drafts_Reports/**  
+  Draft proposals, working papers, and final project reports.  
 
-### 🔁 Step 1: Fork This Repository
-- Click the **“Fork”** button in the top-right corner of this page.
-- This will create a copy of this repository under your GitHub account.
+- **Additional_Materials/**  
+  Photos, information sheets, and other supporting media.  
 
-### 💻 Step 2: Clone to Your Local Machine
-- Open GitHub Desktop or your terminal.
-- Clone your forked repo:
-  ```bash
-  git clone https://github.com/yourusername/REIT6811-T6-Data_handling.git
+---
 
-Open the folder locally and start working.
+## 🔑 Collaboration & Conventions
 
-### 💻 Step 3: Create a new branch sXXXXXXX-Name  
-Or in terminal:  
-```bash
-git checkout -b s1234567-Name
-```
-### 💻 Step 4: Creates a new folder named after your student ID (sXXXXXXX-folder_name_as_per_tutorial) in the repo root
-### 🔧 Step 5: Copy the template structure provided and refactor.
-You may also create your own structure from scratch if preferred.
-Note: GitHub does not track empty folders, so include dummy files where needed.
-### 💻 Step 6: Commits and pushes changes to your branch.
-### 💻 Step 7: Creates a pull request from your forked repo → main repo.
-### 💻 Step 8: Take screenshots of relevant screens as per handout questions for your jounral entry submission.
+- **File naming**: Use clear, consistent names (e.g., `SurveyData_Cleaned_v1.csv`, `Interview_P01.docx`).  
+- **Commits**: Write short, meaningful messages (e.g., *“Uploaded cleaned survey data”*).  
+- **Branches**: Create a branch for edits (e.g., `feature-survey-analysis`) and submit a pull request.  
+- **Access control**: Restrict sensitive files (like consent forms) to authorised team members only.  
+
+---
+
+## 📜 Project Logbook
+
+Progress is tracked in:  
+`Project_logbook.txt`  
+
+---
+
+## 👩‍🎓 Author
+
+- **Khushboo Panthi (s4769747)** – Repository Owner  
+
+---

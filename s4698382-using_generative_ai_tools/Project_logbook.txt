@@ -1,0 +1,41 @@
+# Project Logbook - Using Generative AI Tools Research
+
+## Project Overview
+Research project: "Using Generative AI Tools – Boon or Bane"
+
+## Student Information
+- Student ID: s4698382
+- Name: Lorenzo Policar
+- Course: REIT6811 - Tutorial 6
+
+## Project Timeline
+- Started: [Date to be filled]
+- Expected completion: [Date to be filled]
+
+## Research Activities Log
+
+### Literature Review
+- [ ] Initial literature search
+- [ ] Key papers identified
+- [ ] Literature review draft
+
+### Data Collection
+- [ ] Survey design
+- [ ] Interview protocols
+- [ ] Data collection completed
+
+### Analysis
+- [ ] Quantitative analysis
+- [ ] Qualitative analysis
+- [ ] Results interpretation
+
+### Writing
+- [ ] Draft proposal
+- [ ] Final paper
+- [ ] Report submission
+
+## Notes
+[Add project notes and observations here]
+
+## Resources
+[Add useful resources and references here]
